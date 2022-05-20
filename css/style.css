@@ -1,0 +1,30 @@
+.body {
+    font: 20px Arial , sans-seril;
+}
+.navbar {
+    background-color: aqua;
+}
+
+.quemsomos{
+    background-color: #F9F905;
+    
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.apoiadores{
+    background-color: brown;
+}
+
+.servicos{
+    background-color: white;
+    font: 20px Arial , sans-seril
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
